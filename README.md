@@ -8,3 +8,5 @@ For your reference visit this URL https://github.com/rvsp/HTML-CSS/tree/master/T
 Task 01 : Slant Design
 
 <a href="https://suriya-k7.github.io/Guvi_Day_12_task_01_Slant_Design/" target="_blank">https://suriya-k7.github.io/Guvi_Day_12_task_01_Slant_Design/</a>
+
+<i>Note: Created as Responsive Web Design also</i>
